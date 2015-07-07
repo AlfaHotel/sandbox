@@ -1,2 +1,2 @@
 # sandbox
-Repo for git and github learning and testing only
+Repo for git/github learning and testing only
